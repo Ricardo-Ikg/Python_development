@@ -1,1 +1,5 @@
-Ediçao do arquivo readme para aprendizado do git
+Author: Ricardo Ikegame
+
+Projeto - Aprendendo git
+
+Vamos fazer algumas alterções para fixar como o git funciona

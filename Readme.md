@@ -1,1 +1,1 @@
-Ediçao do arquivo readme para testes
+Ediçao do arquivo readme para aprendizado do git

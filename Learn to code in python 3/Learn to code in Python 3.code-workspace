@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Introducao à Programação de computadores"
+		},
+		{
+			"path": "../Python Fundamentos"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"debug.internalConsoleOptions": "neverOpen"
+	}
+}
